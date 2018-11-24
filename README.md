@@ -3,7 +3,7 @@ Kent Beck著 [テスト駆動開発](https://tatsu-zine.com/books/test-driven-de
 
 # リンク
 ## 第I部 多国通貨
-- 第1章 仮実装
+- 第1章 [仮実装](../../releases/tag/1-1)
 - 第2章 明白な実装
 - 第3章 三角測量
 - 第4章 意図を語るテスト
