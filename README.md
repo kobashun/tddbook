@@ -28,7 +28,7 @@ Kent Beck著 [テスト駆動開発](https://tatsu-zine.com/books/test-driven-de
 - 第22章 [失敗の扱い](../../../tddbook-xunit/releases/tag/2-22)
 - 第23章 [スイートにまとめる](../../../tddbook-xunit/releases/tag/2-23)
 - 第24章 xUnitの全体ふりかえり*
-### 第III部 テスト駆動開発のパターン
+## 第III部 テスト駆動開発のパターン
 - 第25章 テスト駆動開発のパターン*
 - 第26章 レッドバーのパターン*
 - 第27章 テスティングのパターン*
